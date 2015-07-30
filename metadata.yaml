@@ -23,8 +23,8 @@ publisher: Project Gutenberg
 rights: Copyrighted. Read the copyright notice inside this book for details.
 rights_url: ''
 subjects:
+- '!lcc:PT'
 - '!lcsh:Metamorphosis -- Fiction'
 - '!lcsh:Psychological fiction'
-- '!lcc:PT'
 title: Metamorphosis
 url: http://www.gutenberg.org/ebooks/5200
