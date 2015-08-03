@@ -1,4 +1,5 @@
 _repo: Metamorphosis_5200
+_version: 0.0.1
 contributor:
   translator:
     agent_name: Wyllie, David
@@ -25,9 +26,10 @@ gutenberg_type: Text
 identifiers:
   gutenberg: '5200'
 language: en
-publisher: Project Gutenberg
-rights: Copyrighted. Read the copyright notice inside this book for details.
-rights_url: ''
+publication_date: '2015-08-01'
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
 subjects:
 - '!lcc: PT'
 - '!lcsh: Metamorphosis -- Fiction'
