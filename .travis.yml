@@ -24,7 +24,7 @@ deploy:
   api_key:
     secure: TBi5I3lse3ncy9XgfUP6igxGTN66QcRn6pNF925H/KB8Mk75cVufzdViWarplaB4P/cDSOTZjBOZrxWkPtRimwmBInKME7uyMDn2euwUdJzQpLEaCQELRyHBUZRS7sTY7plS1Vug+lkqc5p9V4EiRF/SBjxK4O90wz+7v9vf1AUgfdFTh6QpIjmoWFqgHYElzevBE73uYNUN1fXrE9ocPnWTijBL5qbAEPj0hrxgCAs/ocNuwpMWKUXiJoZqeqTV4Gikim12v27hUVOVcnGbDWXDJyothvoOX3Jze0jMK4qZ3OKxYLcnbPOx0r07YAMiOoBdkCq8QocNSmeHlvB1arvYvPbzgRGuuVuXUmW84X3YRxYnFluzw17eG+SFEMN7+LGIFf4PKbd/i8YwZUYMMY88aiA8cfIp+ThsEzOH6QE9WBFRoKnIdtOXpQOrQbX4EdZLXJ0zGuwY4ndVjMC2McpVamq0KvzPEuvYuFtn5SxWpOFBu//YTd3CLjputqmv1zETf2eTgdNxZ+y13zWbKc7a/k8xgokm88jC7KiqvMzd+KZqTlmE0MrVFQCWfKK+havEssV0PVWxXE4C1n0TfdO0xrwpdPeZ08OtYoBU3fc/4XqrfvcSp43k63VzrOogVbyudPPQblTVjg30NQU6NY8/RZoY+Jqu5TOWeK+ALQI=
   file: Metamorphosis.epub
-  on:
+  "on":
     repo: GITenberg/Metamorphosis_5200
 addons:
   apt:
