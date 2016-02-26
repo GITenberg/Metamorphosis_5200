@@ -1,5 +1,5 @@
 _repo: Metamorphosis_5200
-_version: 0.0.2
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Wyllie, David
@@ -34,5 +34,6 @@ subjects:
 - '!lcc: PT'
 - '!lcsh: Metamorphosis -- Fiction'
 - '!lcsh: Psychological fiction'
+- GITenberg
 title: Metamorphosis
 url: http://www.gutenberg.org/ebooks/5200
