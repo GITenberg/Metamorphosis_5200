@@ -1,5 +1,5 @@
 _repo: Metamorphosis_5200
-_version: 0.2.1
+_version: 0.2.2
 contributor:
   translator:
     agent_name: Wyllie, David
@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '1735'
     url: http://www.gutenberg.org/2009/agents/1735
     wikipedia: http://en.wikipedia.org/wiki/Franz_Kafka
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5200#Metamorphosis
 gutenberg_bookshelf: Horror
 gutenberg_issued: '2005-08-17'
 gutenberg_type: Text
